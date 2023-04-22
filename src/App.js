@@ -6,7 +6,9 @@ import FAQ from './compontents/FAQ/FAQ.js';
 function App() {
   return (
     <div className="App">
-      <FAQ></FAQ>
+      <div className='childApp'>
+         <FAQ></FAQ>
+      </div>
     </div>
   );
 }

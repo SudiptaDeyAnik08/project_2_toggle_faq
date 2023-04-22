@@ -1,0 +1,13 @@
+.SingleFAQ{
+    margin: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px dotted black;
+}
+
+.SingleFAQ div{
+    display: flex;
+    justify-content: space-around;
+}
+
